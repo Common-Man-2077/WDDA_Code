@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup as soup
 from urllib.request import Request, urlopen
-import numpy as np
 
 # define the matrix which stores episode and category information
 category_matrix = np.asarray([["Category", "Episode"]])
