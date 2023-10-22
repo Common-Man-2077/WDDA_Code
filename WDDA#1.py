@@ -3,7 +3,6 @@ import json
 import requests
 import os
 import time
-import numpy as np
 # Locate the file directory of this python file
 # change the working directory to this location
 abspath = os.path.abspath(__file__)
